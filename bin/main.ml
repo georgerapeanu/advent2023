@@ -1,5 +1,3 @@
-open Advent2023.Day4
+open Advent2023.Day5
 
-let () = part2 ();;
-
-
+let () = part2 ()
