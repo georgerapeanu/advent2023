@@ -1,6 +1,6 @@
 (library
  (name advent2023)
- (modules day1 day2 day3 day4 day5 day6)
+ (modules day1 day2 day3 day4 day5 day6 day7)
  (preprocess
   (pps ppx_jane))
  (libraries stdio base core ppx_jane))
