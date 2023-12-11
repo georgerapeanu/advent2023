@@ -1,3 +1,3 @@
-open Advent2023.Day10
+open Advent2023.Day11
 
 let () = part2 ()
