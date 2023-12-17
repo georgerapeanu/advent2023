@@ -15,7 +15,8 @@
   day12
   day13
   day15
-  day16)
+  day16
+  day17)
  (preprocess
   (pps ppx_jane))
  (libraries stdio base core ppx_jane))
