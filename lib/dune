@@ -18,7 +18,12 @@
   day16
   day17
   day18
-  day19)
+  day19
+  day21
+  day22
+  day23
+  day24
+ )
  (preprocess
   (pps ppx_jane))
- (libraries stdio base core ppx_jane))
+ (libraries stdio base core ppx_jane re2))
